@@ -1,6 +1,5 @@
 # [Surve](https:denso.onrender.com/surve) 
 
-![version](https://img.shields.io/badge/version-1.0.7-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard.svg)](https://github.com/creativetimofficial/soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard.svg)](https://github.com/creativetimofficial/soft-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image]
 (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intuz.com%2Fblog%2Fsmart-security-cameras&psig=AOvVaw1daGjNqv5HNhkWJjJDAaqt&ust=1736166753408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCAg8LL3ooDFQAAAAAdAAAAABAE)
