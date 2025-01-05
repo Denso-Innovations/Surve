@@ -2,7 +2,7 @@
 
 
 ![Image]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intuz.com%2Fblog%2Fsmart-security-cameras&psig=AOvVaw1daGjNqv5HNhkWJjJDAaqt&ust=1736166753408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCAg8LL3ooDFQAAAAAdAAAAABAE)
+(https://img.freepik.com/free-photo/cctv-security-camera_1359-621.jpg?ga=GA1.1.383856601.1723956887&semt=ais_hybrid)
 
 **Surve - AI**
 
