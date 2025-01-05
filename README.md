@@ -2,35 +2,22 @@
 
 ![version](https://img.shields.io/badge/version-1.0.7-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard.svg)](https://github.com/creativetimofficial/soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard.svg)](https://github.com/creativetimofficial/soft-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816)
+![Image]
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intuz.com%2Fblog%2Fsmart-security-cameras&psig=AOvVaw1daGjNqv5HNhkWJjJDAaqt&ust=1736166753408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCAg8LL3ooDFQAAAAAdAAAAABAE)
 
-Most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Free Bootstrap 5 Dashboard.
+**Surve - AI**
 
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard is ready to help you create stunning websites and webapps.
+Serve is an Artificial Intelligent blockchain video surveillance system intended to use blockchain technology to store and manage received video surveillance data. Its main goal is to promote situational awareness among societies by utilizing the decentralized nature of blockchain to implement a depin-based surveillance system across a smart city.
 
-We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
+** Tributes | Special Thanks **
+During my ideation stage support from awesome developers and researchers proved helpfull in prototyping solutions . I'd like to thank them for their resources | support 
+- [Developer](https://x.com/Ijay_js)- @LiskHQ | Ambassador | BlockChain Developer | @Web3Bridge
+- [Industry](https://obsproject.com/) -  OBS Studio - is  a free, open-source program that allows users to record and stream video and audio
+- [Industry](https://www.livepeer.org/) Livepeer - is a decentralized network for limitless video computing, enabling AI processing and transcoding jobs to power the future of video.
+- [Industry](https://lisk.com/) Lisk - Lisk is a Layer 2 blockchain boosting Web3 adoption in emerging markets on Ethereum with scalable tech, founder support, and true interoperability.
+- [Industry](https://www.storj.io/) Storj - Storj is zero trust and zero knowledge. End-to-end encryption is standard and only you can see and access your data.
+- [Industry](https://www.twilio.com/en-us) Twilio - is a customer engagement functionality provider used by developers worldwide to build unique communication features and capabilities like voice, text, chat, video, and email into their applications
 
-**Fully Coded Elements**
-
-Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
-This Free Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
-
-View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/soft-ui-dashboard?ref=readme-sud).
-
-**Documentation built by Developers**
-
-Each element is well presented in a very complex documentation.
-You can read more about the <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard" target="_blank">documentation here</a>.
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-View <a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html" target="_blank">example pages here</a>.
 
 **HELPFUL LINKS**
 
@@ -38,139 +25,51 @@ View <a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.h
 
 - Check <a href="https://www.creative-tim.com/faq" target="_blank">FAQ Page</a>
 
-#### Special thanks
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Bootstrap 5](https://www.getbootstrap.com)- Open source front end framework
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Soft UI Dashboard. You can use it to gain insights into your sources of traffic.
-
-Let us know your thoughts below. And good luck with development!
-
-## Table of Contents
-
-- [Soft UI Dashboard  ](#soft-ui-dashboard--)
-      - [Special thanks](#special-thanks)
-  - [Table of Contents](#table-of-contents)
-  - [Versions](#versions)
-  - [Demo](#demo)
-  - [Quick start](#quick-start)
-  - [Terminal Commands](#terminal-commands)
-  - [Documentation](#documentation)
-    - [What's included](#whats-included)
-  - [Browser Support](#browser-support)
-  - [Resources](#resources)
-  - [Reporting Issues](#reporting-issues)
-  - [Technical Support or Questions](#technical-support-or-questions)
-  - [Licensing](#licensing)
-  - [Useful Links](#useful-links)
-        - [Social Media](#social-media)
-
-## Versions
-
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard?ref=readme-sud)
-
-| HTML |
-| --- |
-| [![Soft UI Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/450/thumb/opt_sd_free_thumbnail.jpg?1617715816)](http://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html?ref=readme-sud)
-
-## Demo
-
-- [Profile page](http://demos.creative-tim.com/soft-ui-dashboard/pages/profile.html?ref=readme-sud)
-- [Sign in page](http://demos.creative-tim.com/soft-ui-dashboard/pages/sign-in.html?ref=readme-sud)
-- [Sign up page](https://demos.creative-tim.com/soft-ui-dashboard/pages/sign-up.html?ref=readme-sud)
-
-[View More](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html?ref=readme-sud).
 
 ## Quick start
 
-Quick start options:
+Requirements to run : Android | PC  :
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard?ref=readme-sud).
+- A Preferred stream software or [Obs-Studio](https://www.creative-tim.com/product/soft-ui-dashboard?ref=readme-sud).
+- Functional Webcam or [Ip Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en)
+-  Api Keys -
+-  Decentralized Storage or [Storj](https://www.storj.io/)
+-  Clientelle Engagement Software or [Twilio](https://www.twilio.com/en-us)
+-  AI monitoring software or [Livepeer](https://www.livepeer.org/)
+  
 
-## Terminal Commands
+## Other Requirements 
 
-1. Download and Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root / directory and run npm install to install our local dependencies.
+1.Node-js 
+2.Truffle 
+3.Metamask 
+
 
 ## Documentation
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard?ref=readme-sud).
+The full documentation for the project is hosted at our [website](https://denso.onrender.com).
 
-### What's included
-
-Within the download you'll find the following directories and files:
-
+Project Structure 
 ```
-soft-ui-dashboard
-    ├── assets
-    │   ├── css
-    │   ├── fonts
-    │   ├── img
-    │   ├── js
-    │   │   ├── core
-    │   │   ├── plugins
-    │   │   └── soft-ui-dashboard.js
-    │   │   └── soft-ui-dashboard.js.map
-    │   │   └── soft-ui-dashboard.min.js
-    │   └── scss
-    │       ├── soft-ui-dashboard
-    │       └── soft-ui-dashboard.scss
-    ├── docs
+Surve-AI 
+    ├── root
+    │   ├── build
+        └── contracts
+    │   └── migrations
+        └── tests
+    ├── License
     │   ├── documentation.html
-    ├── pages
-    ├── CHANGELOG.md
-    ├── gulpfile.js
-    ├── package.json
-```
+    ├── truffle-config.js 
+  
 
-## Browser Support
+## Solidity Version Support 
+-- ^0.8.13;
 
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-## Resources
-- [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html?ref=readme-sud)
-- [Download Page](https://www.creative-tim.com/product/soft-ui-dashboard?ref=readme-sud)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard?ref=readme-sud)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-sud)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-sud)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/soft-ui-dashboard/issues)
-- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
-
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Soft UI Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Soft UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard?ref=readme-sud).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sud) instead of opening an issue.
+If you have questions or advancements feel free to reach me [@libera8](X) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-sud)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sud)
+- MIT
 
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-sud) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sud) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sud) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-TikTok: <https://tiktok.com/@creative.tim>
-
-Instagram: <https://instagram.com/creativetimofficial>
