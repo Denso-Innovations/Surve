@@ -10,7 +10,7 @@ Serve is an Artificial Intelligent blockchain video surveillance system intended
 
 ** Tributes | Special Thanks **
 During my ideation stage support from awesome developers and researchers proved helpfull in prototyping solutions . I'd like to thank them for their resources | support 
-- [Developer](https://x.com/Ijay_js)- @LiskHQ | Ambassador | BlockChain Developer | @Web3Bridge
+- [Developer](https://x.com/Ijay_js)- @Ijay_js - LiskHQ | Ambassador | BlockChain Developer | @Web3Bridge
 - [Industry](https://obsproject.com/) -  OBS Studio - is  a free, open-source program that allows users to record and stream video and audio
 - [Industry](https://www.livepeer.org/) Livepeer - is a decentralized network for limitless video computing, enabling AI processing and transcoding jobs to power the future of video.
 - [Industry](https://lisk.com/) Lisk - Lisk is a Layer 2 blockchain boosting Web3 adoption in emerging markets on Ethereum with scalable tech, founder support, and true interoperability.
